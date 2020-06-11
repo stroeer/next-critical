@@ -1,0 +1,10 @@
+{
+  "name": "next-critical-next-plugin",
+  "nextjs": {
+    "name": "Next Critical",
+    "required-env": []
+  },
+  "files": [
+    "src/*.js"
+  ]
+}

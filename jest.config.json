@@ -1,0 +1,4 @@
+{
+  "testEnvironment": "node",
+  "testRunner": "jest-circus/runner"
+}

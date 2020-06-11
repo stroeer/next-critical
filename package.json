@@ -1,0 +1,12 @@
+{
+  "name": "next-critical",
+  "version": "1.0.0",
+  "author": "Lukas Bombach",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "loader.js",
+    "critical.js",
+    "plugins/**/*(.js|.json)"
+  ]
+}

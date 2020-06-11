@@ -1,0 +1,7 @@
+{
+  "name": "next-critical-babel-preset-plugin",
+  "main": "index.js",
+  "files": [
+    "src/babel-preset-build.js"
+  ]
+}
