@@ -7,7 +7,7 @@ This repository aims to find a solution to enable critical JS and critical CSS i
 Add to your Next project
 
 ```bash
-yarn add https://github.com/LukasBombach/next-critical
+yarn add https://github.com/stroeer/next-critical
 ```
 
 Add to your `next.config.js`
